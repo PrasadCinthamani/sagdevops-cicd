@@ -1,3 +1,6 @@
 [submodule "cicd"]
 	path = cicd
 	url = https://github.com/PrasadCinthamani/sagdevops-cicd-jenkins.git
+[submodule "webmethods"]
+	path = webmethods
+	url = https://github.com/PrasadCinthamani/sagdevops-webmethods-tree.git
